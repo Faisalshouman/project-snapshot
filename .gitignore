@@ -1,0 +1,43 @@
+# ==========================================
+# Python & Environment
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+.env
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+*.egg
+.Python
+
+# ==========================================
+# IDEs & Editors
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+
+# ==========================================
+# OS Files
+# ==========================================
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ==========================================
+# Output Files
+# ==========================================
+# Project snapshot output (defined in your script)
+CodexSnapshot/
+*.json
+*.txt
+*.zip
